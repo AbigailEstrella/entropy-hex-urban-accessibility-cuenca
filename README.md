@@ -1,5 +1,6 @@
 # entropy-hex-urban-accessibility-cuenca
 R script for normalized Shannon entropy using 250 m hexagonal grid to assess functional urban diversity and accessibility in Cuenca, Ecuador.
+
 # Cálculo de entropía funcional mediante malla hexagonal
 
 Este repositorio contiene un script en R para calcular la diversidad funcional urbana mediante el índice de entropía de Shannon normalizado, aplicado a equipamientos urbanos agregados en una malla hexagonal regular de 250 metros.
@@ -20,6 +21,13 @@ donde:
 - H varía entre 0 y 1.
 
 Valores cercanos a 0 indican baja diversidad funcional, mientras que valores próximos a 1 reflejan mayor mezcla de usos urbanos.
+
+## Resultados
+### Urban Opportunities – Facilities Points
+![Urban Opportunities](Urban_opportunities_points_cuenca.jpg)
+### Functional Diversity – Entropy Map
+![Entropy Map](Entropy_map_cuenca.jpg)
+
 
 ## Insumos requeridos
 
